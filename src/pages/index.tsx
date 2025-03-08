@@ -8,6 +8,8 @@ import CursorTrailCanvas from "@/components/cursor-trail-canvas";
 
 import { SKILLS_DATA } from "@/data/skills";
 import { siteMetadata } from "@/data/siteMetaData.mjs";
+import DevShowcase from "@/components/developers/dev-showcase";
+import { DEV_DATA } from "@/data/developers";
 
 export default function Home() {
   return (
@@ -52,6 +54,7 @@ export default function Home() {
       </Head>
       <LandingHero />
       <SkillsShowcase skills={SKILLS_DATA} />
+      <DevShowcase devs={DEV_DATA} />
     </>
   );
 }
