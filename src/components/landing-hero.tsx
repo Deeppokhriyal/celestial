@@ -42,10 +42,10 @@ export default function LandingHero() {
                 Celestial
               </h1>
               <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100 md:text-3xl">
-                Frontend and Touch of Backend App Developer
+                Fullstack Flutter Developer touch of web developer.
               </span>
             </FadeUp>
-            <FadeUp key="description" duration={0.7} delay={0.2}>
+            <FadeUp key="description" duration={0.8} delay={0.2}>
               <div className="mt-8 max-w-3xl text-base font-semibold text-zinc-900 dark:text-zinc-200 sm:text-base md:text-2xl">
                 <span className="text-xl text-accent sm:text-3xl">Hi</span>,
                 We&apos;re
