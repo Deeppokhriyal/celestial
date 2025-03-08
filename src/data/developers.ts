@@ -10,7 +10,7 @@ export const DEV_DATA: DevShowcaseProps["devs"] = [
         icon: ppSvg,
       },
       {
-        name: "Sivanshi Mishra",
+        name: "Shivanshi Mishra",
         icon: ppSvg,
       },
     ],
