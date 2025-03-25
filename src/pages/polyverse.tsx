@@ -23,7 +23,7 @@ export default function Polyverse() {
               connected—all in one place.
             </p>
             <p className="mt-10 text-base md:text-xl">
-              We will notify you when Polyverse launches.{" "}
+              We will notify you when Deepak pokhriyal launches.{" "}
             </p>
           </div>
 
